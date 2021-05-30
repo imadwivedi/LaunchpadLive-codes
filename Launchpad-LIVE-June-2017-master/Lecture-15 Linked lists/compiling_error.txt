@@ -1,0 +1,5 @@
+/Users/aniketdwivedi/Documents/Documents Codes/Launchpad/Aniket Data/Videos CB/Launchpad-LIVE-June-2017-master/Lecture-15 Linked lists/linkedList_basic.cpp:247:27: error: expected ';' after expression
+    rearrangeEvenOdd(head)
+                          ^
+                          ;
+1 error generated.
